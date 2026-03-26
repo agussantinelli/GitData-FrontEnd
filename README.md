@@ -1,19 +1,37 @@
 <div align="center">
-  
-# ⚡ GIT DATA: FRONTEND ⚡
-### *Visual Intelligence & Hacker Aesthetic*
 
-[![Vue 3](https://img.shields.io/badge/Framework-Vue%203-42b883?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
-[![PrimeVue](https://img.shields.io/badge/UI_Kit-PrimeVue-339af0?style=for-the-badge&logo=primevue)](https://primevue.org/)
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-[![Vite](https://img.shields.io/badge/Build-Vite-646CFF?style=for-the-badge&logo=vite)](https://vitejs.dev/)
+<h1 align="center">⚡ Git Data – FrontEnd</h1>
 
-<br />
+<p align="center">
+  <a href="https://github.com/agussantinelli/GitData-FrontEnd" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💻%20Repo%20Frontend-GitData-0b7285?style=for-the-badge&logo=github&logoColor=white" alt="Repo Frontend"/>
+  </a>
+  <a href="https://github.com/agussantinelli/GitData-BackEnd" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/⚙️%20Repo%20Backend-NestJS%20%7C%20Node-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Repo Backend"/>
+  </a>
+</p>
 
-[![Frontend Repo](https://img.shields.io/badge/Repository-Frontend-42b883?style=flat-square&logo=github)](https://github.com/agussantinelli/GitData-FrontEnd)
-[![Backend Repo](https://img.shields.io/badge/Repository-Backend-E0234E?style=flat-square&logo=github)](https://github.com/agussantinelli/GitData-BackEnd)
+<p align="center">
+  <a href="https://github.com/agussantinelli" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/👤%20Agustín%20Santinelli-agussantinelli-000000?style=for-the-badge&logo=github&logoColor=white" alt="Agus"/>
+  </a>
+  <a href="https://github.com/martin-ratti" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/👤%20Martín%20Ratti-martin--ratti-000000?style=for-the-badge&logo=github&logoColor=white" alt="Martín"/>
+  </a>
+</p>
 
-**GitData-FrontEnd** es la interfaz de asalto de Git Data. Diseñada con una estética *dark-neon* y optimizada para la visualización de datos complejos del ADN de desarrolladores a través de una experiencia inmersiva.
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue%203-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Badge"/>
+  <img src="https://img.shields.io/badge/Vite-6.0.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
+  <img src="https://img.shields.io/badge/PrimeVue-4.0.0-339af0?style=for-the-badge&logo=primevue&logoColor=white" alt="PrimeVue Badge"/>
+  <img src="https://img.shields.io/badge/Pinia-2.1.0-ffe14d?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia Badge"/>
+  <img src="https://img.shields.io/badge/Vitest-3.0.0-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest Badge"/>
+  <img src="https://img.shields.io/badge/ESLint-9.0.0-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge"/>
+  <img src="https://img.shields.io/badge/ECharts-Charts-ff6e76?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts Badge"/>
+</p>
+
+**GitData-FrontEnd** es la interfaz de asalto de Git Data. Diseñada con una estética *dark-neon* y optimizada para la visualización de datos complejos del ADN de desarrolladores a través de una arquitectura limpia y reactiva.
 
 </div>
 
@@ -26,7 +44,7 @@ Este cliente no solo consume datos, los interpreta. Implementa el **Radar de ADN
 * **Core:** Vue 3 (Composition API) + TypeScript Estricto.
 * **UI/UX:** PrimeVue (Presets personalizados) + SCSS (Neon Theme).
 * **Estado:** Pinia para una gestión de datos fluida y reactiva.
-* **Gráficos:** ECharts / Chart.js para el mapeo de "The Hidden Gem".
+* **Gráficos:** ECharts para el mapeo de "The Hidden Gem".
 * **Validación:** Zod para esquemas de entrada y tipado seguro.
 
 ---
