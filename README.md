@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/SAWARATSUKI/ServiceLogos/main/GitHub/GitHub.png" width="100" height="100" alt="Git Data Logo" />
-
+  
 # ⚡ GIT DATA: FRONTEND ⚡
 ### *Visual Intelligence & Hacker Aesthetic*
 
