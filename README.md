@@ -36,7 +36,7 @@
 
 </div>
 
-<hr />
+<hr>
 <h2>🎯 Objetivo y Propósito</h2>
 
 <p align="justify">
@@ -56,7 +56,8 @@
   </p>
 </blockquote>
 
-<br />
+<hr>
+
 <h2>🛠️ Stack Tecnológico</h2>
 
 <table>
@@ -100,7 +101,8 @@
     </tr>
   </tbody>
 </table>
-<br />
+
+<hr>
 
 ## 🚀 La Experiencia de Usuario (UX)
 Este cliente no solo consume datos, los interpreta. Implementa el **Radar de ADN** y el **Timeline de Evolución** mediante componentes reactivos de alto rendimiento, traduciendo JSONs complejos en visualizaciones estratégicas.
