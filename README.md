@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Vue%203-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue Badge"/>
   <img src="https://img.shields.io/badge/Vite-6.0.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
   <img src="https://img.shields.io/badge/TypeScript-5.0.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS Badge"/>
+  <img src="https://img.shields.io/badge/pnpm-10.0.0-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm Badge">
   <img src="https://img.shields.io/badge/PrimeVue-4.0.0-339af0?style=for-the-badge&logo=primevue&logoColor=white" alt="PrimeVue Badge"/>
   <img src="https://img.shields.io/badge/Pinia-2.1.0-ffe14d?style=for-the-badge&logo=pinia&logoColor=black" alt="Pinia Badge"/>
   <img src="https://img.shields.io/badge/Vitest-3.0.0-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest Badge"/>
