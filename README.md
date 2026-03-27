@@ -37,21 +37,38 @@
 <h2>🎯 Objetivo y Propósito</h2>
 
 <p align="justify">
-  En un ecosistema saturado de métricas vanidosas, los reclutadores y líderes técnicos a menudo pierden de vista el <b>impacto real</b> y la <b>calidad técnica</b> de un desarrollador. <b>Git Data</b> nace para resolver la opacidad en el análisis de perfiles de GitHub, transformando datos crudos en una radiografía técnica precisa.
+  <b>GitData</b> nace para transformar la frialdad de una lista de repositorios en una <b>"Ficha Técnica"</b> interactiva y vibrante. Nuestra misión es contar la historia del desarrollador a través de sus contribuciones, permitiendo que reclutadores y colegas visualicen no solo el "qué", sino el "cómo" y el "cuándo" de su evolución profesional.
 </p>
-
-<ul>
-  <li><b>🔍 Análisis de ADN Técnico:</b> Desglosar el stack real basándose en la complejidad de los repositorios.</li>
-  <li><b>💎 The Hidden Gem:</b> Algoritmo para identificar proyectos con alto valor arquitectónico oculto.</li>
-  <li><b>📊 Visualización de Alto Impacto:</b> Radar de competencias y timelines interactivos para decisiones <i>Data-Driven</i>.</li>
-  <li><b>🚀 Optimización de Reclutamiento:</b> Reducción drástica en los tiempos de revisión de perfiles técnicos.</li>
-</ul>
 
 <blockquote>
   <p>
-    <i>"Empoderar a la comunidad dev con una herramienta de auditoría que premie la calidad y la arquitectura sobre el simple volumen de código."</i>
+    <i>"No solo listamos código; proyectamos talento mediante una narrativa visual impulsada por datos reales."</i>
   </p>
 </blockquote>
+
+<hr>
+
+<h2>🌟 Propuesta de Valor: La Ficha Técnica Definitiva</h2>
+
+<p align="justify">
+  GitData eleva el perfil de GitHub a una nueva dimensión con funcionalidades diseñadas para el impacto visual y la claridad técnica:
+</p>
+
+<ol>
+  <li><b>🧬 El "Radar de ADN" Técnico:</b> Visualización dinámica que desglosa la proporción de lenguajes. Detecta al instante si el usuario es un especialista Frontend, un arquitecto Backend o un políglota versátil.
+    <br><i>UX: Resaltado interactivo de repositorios al interactuar con el radar.</i>
+  </li>
+  <li><b>💎 Detección de "Proyectos Joya":</b> Algoritmos de curado para destacar lo que realmente importa:
+    <ul>
+      <li><b>The Big One:</b> El proyecto con mayor tracción (estrellas).</li>
+      <li><b>The Active One:</b> El pulso reciente del desarrollador.</li>
+      <li><b>The Hidden Gem:</b> Proyectos de alta utilidad comunitaria (forks vs estrellas).</li>
+    </ul>
+  </li>
+  <li><b>📅 Timeline de Contribuciones Visual:</b> Una línea de tiempo horizontal que narra la productividad y los cambios de stack a lo largo de los años.</li>
+  <li><b>🔄 Modo "Reclutador" vs. "Developer":</b> Switch de interfaz que adapta la densidad de información según quién esté mirando el perfil.</li>
+  <li><b>📊 Social Proof Dinámico:</b> Análisis de impacto, ratio de influencia y visualización de organizaciones para validar la trayectoria.</li>
+</ol>
 
 <hr>
 
@@ -101,15 +118,14 @@
 
 <hr>
 
-## 🚀 La Experiencia de Usuario (UX)
-Este cliente no solo consume datos, los interpreta. Implementa el **Radar de ADN** y el **Timeline de Evolución** mediante componentes reactivos de alto rendimiento, traduciendo JSONs complejos en visualizaciones estratégicas.
+## 🚀 Experiencia de Usuario: Siguiente Nivel
 
-### 🛠 Stack Tecnológico
-* **Core:** Vue 3 (Composition API) + TypeScript Estricto.
-* **UI/UX:** PrimeVue (Presets personalizados) + SCSS (Neon Theme).
-* **Estado:** Pinia para una gestión de datos fluida y reactiva.
-* **Gráficos:** ECharts para el mapeo de "The Hidden Gem".
-* **Validación:** Zod para esquemas de entrada y tipado seguro.
+GitData no solo consume datos, los interpreta. Implementamos una UX proactiva que anticipa las necesidades del usuario:
+
+*   **🔍 Búsqueda con "Smart-Predict":** Sugerencias en tiempo real de usuarios de GitHub a medida que escribes.
+*   **⚖️ Comparador de Perfiles:** Vista side-by-side para comparar stacks tecnológicos entre dos desarrolladores.
+*   **🎴 Exportar "Dev-Card":** Generación de capturas elegantes del perfil para compartir en redes profesionales (LinkedIn/Twitter).
+*   **⚰️ Manejo de "Cementerios de Código":** Sección colapsable para repositorios antiguos, manteniendo el foco en la actividad contemporánea.
 
 ---
 
