@@ -118,14 +118,18 @@
 
 <hr>
 
-## 🚀 Experiencia de Usuario: Siguiente Nivel
+<h2>🚀 Experiencia de Usuario: Siguiente Nivel</h2>
 
-GitData no solo consume datos, los interpreta. Implementamos una UX proactiva que anticipa las necesidades del usuario:
+<p align="justify">
+  GitData no solo consume datos, los interpreta. Implementamos una UX proactiva que anticipa las necesidades del usuario:
+</p>
 
-*   **🔍 Búsqueda con "Smart-Predict":** Sugerencias en tiempo real de usuarios de GitHub a medida que escribes.
-*   **⚖️ Comparador de Perfiles:** Vista side-by-side para comparar stacks tecnológicos entre dos desarrolladores.
-*   **🎴 Exportar "Dev-Card":** Generación de capturas elegantes del perfil para compartir en redes profesionales (LinkedIn/Twitter).
-*   **⚰️ Manejo de "Cementerios de Código":** Sección colapsable para repositorios antiguos, manteniendo el foco en la actividad contemporánea.
+<ul>
+  <li><b>🔍 Búsqueda con "Smart-Predict":</b> Sugerencias en tiempo real de usuarios de GitHub a medida que escribes.</li>
+  <li><b>⚖️ Comparador de Perfiles:</b> Vista side-by-side para comparar stacks tecnológicos entre dos desarrolladores.</li>
+  <li><b>🎴 Exportar "Dev-Card":</b> Generación de capturas elegantes del perfil para compartir en redes profesionales (LinkedIn/Twitter).</li>
+  <li><b>⚰️ Manejo de "Cementerios de Código":</b> Sección colapsable para repositorios antiguos, manteniendo el foco en la actividad contemporánea.</li>
+</ul>
 
 ---
 
