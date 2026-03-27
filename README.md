@@ -136,7 +136,7 @@
 <h2>🏗️ Estructura del Proyecto</h2>
 
 <p align="justify">
-  Siguiendo los principios de <b>Arquitecto Git Data</b>, separamos estrictamente la UI de la lógica de negocio para maximizar la testabilidad:
+  Decidimos separar estrictamente la UI de la lógica de negocio para maximizar la testabilidad:
 </p>
 
 <pre>
