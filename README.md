@@ -168,6 +168,33 @@ src/
 
 <hr />
 
+<h2>💻 Comandos pnpm disponibles</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Comando</th>
+      <th>Descripción</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><p><code>pnpm dev</code></p></td>
+      <td>Inicia el servidor de desarrollo local de <b>Vite</b> con HMR.</td>
+    </tr>
+    <tr>
+      <td><p><code>pnpm build</code></p></td>
+      <td>Verifica tipos con <b>vue-tsc</b> y construye la aplicación optimizada para producción.</td>
+    </tr>
+    <tr>
+      <td><p><code>pnpm preview</code></p></td>
+      <td>Previsualiza localmente la versión de producción generada en <code>dist/</code>.</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
 <h2>👥 Equipo</h2>
     <a href="https://github.com/agussantinelli" target="_blank">
         <img src="https://img.shields.io/badge/👤%20Agustín%20Santinelli-agussantinelli-000000?style=for-the-badge&logo=github&logoColor=white" alt="Agus"/>
