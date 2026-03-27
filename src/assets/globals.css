@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Space+Mono&display=swap');
+
+:root {
+  --black: #050505;
+  --silver: #e0e0e0;
+  --gold: #af9500;
+  --navy: #001a33;
+  --white: #ffffff;
+  
+  --bg: var(--black);
+  --text: var(--silver);
+  --accent: var(--gold);
+  --secondary: var(--navy);
+  
+  --font-main: 'Outfit', sans-serif;
+  --font-mono: 'Space Mono', monospace;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-main);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+h1, h2, h3 {
+  font-weight: 800;
+  color: var(--white);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.gold-text {
+  color: var(--gold);
+}
+
+.navy-bg {
+  background-color: var(--navy);
+}
+
+a {
+  color: var(--gold);
+  text-decoration: none;
+  transition: opacity 0.3s;
+}
+
+a:hover {
+  opacity: 0.8;
+}
+
+/* Base Layout */
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
