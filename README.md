@@ -131,12 +131,15 @@
   <li><b>⚰️ Manejo de "Cementerios de Código":</b> Sección colapsable para repositorios antiguos, manteniendo el foco en la actividad contemporánea.</li>
 </ul>
 
----
+<hr>
 
-## 🏗️ Estructura del Proyecto
-Siguiendo los principios de **Arquitecto Git Data**, separamos estrictamente la UI de la lógica de negocio para maximizar la testabilidad:
+<h2>🏗️ Estructura del Proyecto</h2>
 
-```text
+<p align="justify">
+  Siguiendo los principios de <b>Arquitecto Git Data</b>, separamos estrictamente la UI de la lógica de negocio para maximizar la testabilidad:
+</p>
+
+<pre>
 src/
 ├── assets/          # Estilos SCSS (Variables Neón, Mixins & Reset)
 ├── components/      # UI Atoms & Organisms (PrimeVue Overrides)
@@ -144,7 +147,7 @@ src/
 ├── services/        # Adaptadores para la API (Axios/Fetch)
 ├── stores/          # Gestión de estado global (Pinia)
 └── views/           # Páginas principales (Dashboard, Radar, Search)
-```
+</pre>
 <hr />
 
 <h2 align="left">⚖️ Licencia</h2>
