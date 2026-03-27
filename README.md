@@ -3,10 +3,6 @@
 <h1 align="center">⚡ Git Data – FrontEnd</h1>
 
 <p align="center">
-  <img src="src/assets/logo_principal.png" alt="GitData Logo" width="484" height="233">
-</p>
-
-<p align="center">
   <a href="https://github.com/agussantinelli/GitData-FrontEnd" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/💻%20Repo%20Frontend-GitData-0b7285?style=for-the-badge&logo=github&logoColor=white" alt="Repo Frontend"/>
   </a>
