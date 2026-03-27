@@ -148,6 +148,24 @@ src/
 ├── stores/          # Gestión de estado global (Pinia)
 └── views/           # Páginas principales (Dashboard, Radar, Search)
 </pre>
+
+<hr />  
+
+<h3>🛠️ Skills Especializadas</h3>
+<p>Ubicadas en <code>.agent/skills/</code>, son guías técnicas que definen cómo se deben construir las diferentes partes del sistema:</p>
+
+<ul>
+    <li><b>🎨 vue3-primevue:</b> Normativas para el uso de Composition API, PrimeVue 4 y estilado con variables de Neón.</li>
+    <li><b>🧪 testing-strategy-fe:</b> Estrategia de pruebas unitarias y de componentes utilizando Vitest y Vue Test Utils.</li>
+    <li><b>🔗 integration-testing:</b> Guías para pruebas de flujo completo, mocks de Pinia y Axios.</li>
+    <li><b>🧹 code-quality:</b> Estándares de Clean Code, legibilidad y gestión de estado reactivo con Pinia.</li>
+    <li><b>📱 responsive-design:</b> Reglas para layouts fluidos y adaptabilidad en el Dashboard de GitData.</li>
+    <li><b>🏷️ naming-conventions:</b> Estándares para nombres de componentes Vue, composables y archivos de estilos.</li>
+    <li><b>🧪 test-enforcement:</b> Requisito de cobertura mínima y creación de tests simultánea al desarrollo de lógica.</li>
+    <li><b>🔄 readme-auto-sync:</b> Gestión automatizada de la documentación técnica y el árbol de componentes.</li>
+    <li><b>🌍 global-skills:</b> Catálogo central que orquesta todas las directrices del frontend.</li>
+</ul>
+
 <hr />
 
 <h2>👥 Equipo</h2>
