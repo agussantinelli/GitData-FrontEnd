@@ -31,9 +31,6 @@
   <img src="https://img.shields.io/badge/ESLint-9.0.0-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge"/>
   <img src="https://img.shields.io/badge/ECharts-Charts-ff6e76?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="ECharts Badge"/>
 </p>
-
-**GitData-FrontEnd** es la interfaz de asalto de Git Data. Diseñada con una estética *dark-neon* y optimizada para la visualización de datos complejos del ADN de desarrolladores a través de una arquitectura limpia y reactiva.
-
 </div>
 
 <hr>
