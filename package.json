@@ -6,7 +6,12 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc -b && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest run --coverage",
+    "lint": "eslint . --ext .vue,.js,.ts --fix --ignore-path .gitignore",
+    "format": "prettier --write \"src/**/*.{ts,vue,scss}\""
   },
   "dependencies": {
     "@primevue/themes": "^4.5.4",
