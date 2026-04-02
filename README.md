@@ -166,6 +166,7 @@ src/
     <li><b>🏷️ naming-conventions:</b> Estándares para nombres de componentes Vue, composables y archivos de estilos.</li>
     <li><b>🧪 test-enforcement:</b> Requisito de cobertura mínima y creación de tests simultánea al desarrollo de lógica.</li>
     <li><b>🔄 readme-auto-sync:</b> Gestión automatizada de la documentación técnica y el árbol de componentes.</li>
+    <li><b>♿ accessibility:</b> Reglas obligatorias para garantizar la accesibilidad web (A11y) en GitData. Sigue estándares WCAG 2.1.</li>
     <li><b>🌍 global-skills:</b> Catálogo central que orquesta todas las directrices del frontend.</li>
 </ul>
 
