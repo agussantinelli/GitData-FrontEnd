@@ -6,7 +6,7 @@
   <a href="https://github.com/agussantinelli/GitData-FrontEnd" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/💻%20Repo%20Frontend-GitData-0b7285?style=for-the-badge&logo=github&logoColor=white" alt="Repo Frontend"/>
   </a>
-  <a href="https://github.com/agussantinelli/GitData-BackEnd" target="_blank" style="text-decoration: none;">
+  <a href="https://github.com/agussantinelli/GitData-API" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/⚙️%20Repo%20Backend-NestJS%20%7C%20Node-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Repo Backend"/>
   </a>
 </p>
